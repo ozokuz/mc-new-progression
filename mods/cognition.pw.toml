@@ -1,0 +1,16 @@
+filename = 'Cognition-v2.4.6-1.21.1.jar'
+name = 'Cognition'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '4a0119ec3a1fcab5cd9bb40bdad287c6f161299daa17aef6b706c3c0b239270a724235ed21bd7e21a41cde3e88ba99acba229c38cd4a2b71eb8d94241c7e756f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/9GdSY2FZ/versions/BeSAoTnB/Cognition-v2.4.6-1.21.1.jar'
+
+[update.modrinth]
+mod-id = '9GdSY2FZ'
+version = 'BeSAoTnB'

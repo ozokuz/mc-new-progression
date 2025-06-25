@@ -1,0 +1,16 @@
+filename = 'forbidden_arcanus-1.21.1-2.5.17.jar'
+name = 'Forbidden and Arcanus '
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6e2b7670341f779bd270f7c0d10e0da019df831a8b773e05bcd326005ff421fa180aa0d1ec16ea0e3c674ffb539ce87af2665d7b66c3b916f3a62a56ca40bb3d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/MdlnLS7Q/versions/UNFuOlOR/forbidden_arcanus-1.21.1-2.5.17.jar'
+
+[update.modrinth]
+mod-id = 'MdlnLS7Q'
+version = 'UNFuOlOR'

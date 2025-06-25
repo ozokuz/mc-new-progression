@@ -1,0 +1,16 @@
+filename = 'ars_technica-1.21.1-2.2.2.jar'
+name = 'Ars Technica'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'eafb5b25db244e1c27dba6833f1ce8f683056d2e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6650538
+project-id = 1096161

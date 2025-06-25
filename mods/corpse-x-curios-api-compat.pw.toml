@@ -1,0 +1,16 @@
+filename = 'corpsecurioscompat-1.21.1-NeoForge-2.2.2.jar'
+name = 'Corpse x Curios API Compat'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '43ef2fa1e2893fb3d9147d876f8bc86d925d75cf074a08812c7a466d88fefd7a9781923d398ef0d24f8162f61b1dbef291bc6246ae618a026ceb399da2ca1397'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/pJGcKPh1/versions/dMckkU0h/corpsecurioscompat-1.21.1-NeoForge-2.2.2.jar'
+
+[update.modrinth]
+mod-id = 'pJGcKPh1'
+version = 'dMckkU0h'

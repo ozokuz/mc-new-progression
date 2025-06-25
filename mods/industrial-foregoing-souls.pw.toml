@@ -1,0 +1,16 @@
+filename = 'industrial-foregoing-souls-1.21.1-1.10.4.jar'
+name = 'Industrial Foregoing: Souls'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '071d7ac2f025ffc254cdecf730adecd322813ec555faa86b8c39f3589e1fdb1aa6753f42ba9ade5572dc85d847be3c10b3d8cbdc2994331d5ec66fdd79c5bcde'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/R6YQjhwo/versions/hanGWRDd/industrial-foregoing-souls-1.21.1-1.10.4.jar'
+
+[update.modrinth]
+mod-id = 'R6YQjhwo'
+version = 'hanGWRDd'

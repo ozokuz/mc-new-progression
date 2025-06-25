@@ -1,0 +1,16 @@
+filename = 'schematicenergistics-1.21.1-1.0.0.jar'
+name = 'Schematic Energistics'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'efb391c3ed0ff669bd4e35d22513252ddfdbda8301546423542b580379a7820a26a604bf7dd1a5b956482beb910954a5e5268a59f2e16dea450d5109776d39bd'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/2qXuuYu8/versions/7hfmgVsQ/schematicenergistics-1.21.1-1.0.0.jar'
+
+[update.modrinth]
+mod-id = '2qXuuYu8'
+version = '7hfmgVsQ'

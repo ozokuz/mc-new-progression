@@ -1,0 +1,16 @@
+filename = 'enderdrives-neoforge-1.21.1-1.4.0.jar'
+name = 'EnderDrives'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6cd3b468d55f4a9cb5cbdc32bf4e1b03e521dc57fc9c5d893ab581fac877ef31e2e61ca8fa63b3d6bca949f7a79b9250340d1499e87a3d8ec69c922f8165c1e8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/MCTBnpUz/versions/FUPvy8YL/enderdrives-neoforge-1.21.1-1.4.0.jar'
+
+[update.modrinth]
+mod-id = 'MCTBnpUz'
+version = 'FUPvy8YL'

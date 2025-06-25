@@ -1,0 +1,16 @@
+filename = 'AdvancedAE-1.2.5-1.21.1.jar'
+name = 'AdvancedAE'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'fb5d43808e854a5c28768ba989ad7691cf99f5aec7f76c077dc13003841bffa2ee2aa11b2bb12ab8a014627bc97c6c586c9e6541f1bc4f53f4e99e537747ee99'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/rxYaglEe/versions/f5galYPR/AdvancedAE-1.2.5-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'rxYaglEe'
+version = 'f5galYPR'

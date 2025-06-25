@@ -1,0 +1,16 @@
+filename = 'createstockbridge-1.21.1-0.1.4.jar'
+name = 'Create Stock Bridge'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ceaf58db777d8e59db4a7d3e724e6be17ccb26db3451aed48a1be4db3642380ad85f587d8628f2b20e3c9de2b6d708b1316c9abb951513c2db4501dad9754414'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/V7mbOBO4/versions/fO9nz2jD/createstockbridge-1.21.1-0.1.4.jar'
+
+[update.modrinth]
+mod-id = 'V7mbOBO4'
+version = 'fO9nz2jD'

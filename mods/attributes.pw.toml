@@ -1,0 +1,16 @@
+filename = 'puffish_attributes-0.7.4-1.21-neoforge.jar'
+name = "Pufferfish's Attributes"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '004552d4b3a7e7d9bef2f15d3db8438a134adccf5a9e2b7db4c878c53111f23f9660d55b6038400b262e76b2e36743bd6095a8f1365f7f7f8cbe84850987e511'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/FCFcFw09/versions/V4qreIWV/puffish_attributes-0.7.4-1.21-neoforge.jar'
+
+[update.modrinth]
+mod-id = 'FCFcFw09'
+version = 'V4qreIWV'

@@ -1,0 +1,16 @@
+filename = 'mi-tweaks-1.8.9-1.21.1.jar'
+name = 'MI Tweaks'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c8e06e4d869b70ef9fd31da0aac998cdb5ae8120cb23481055858264297053ed1b7f49065cfa297cd18b564386caf763937f8eb2a2fe913a872a7824d5c80974'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/tJGIBxPC/versions/9xtBpiuA/mi-tweaks-1.8.9-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'tJGIBxPC'
+version = '9xtBpiuA'

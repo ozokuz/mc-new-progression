@@ -1,0 +1,16 @@
+filename = 'industrialization_overdrive-1.10.1+1.21.1.jar'
+name = 'Industrialization Overdrive'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '4a350e8d83c4bdfe59e751f24e7cb970dd527a9c5a7c153bfee6f69bec56391d0bce98ddadd1f74bbb63e392ede1786be8e8c3215528f977f26ffa3476f2234c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/FjBGB4sU/versions/lH8bZEaM/industrialization_overdrive-1.10.1%2B1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'FjBGB4sU'
+version = 'lH8bZEaM'

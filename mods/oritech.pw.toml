@@ -1,0 +1,16 @@
+filename = 'oritech-neoforge-0.16.2.jar'
+name = 'Oritech'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '97667fd51bf7c82af2d8056097440481ebbd0aa4a201e0c4b42755ce57955e6fc8a6fd42c2e80bf1f06dd17139db80873b5bce4aef6cf446707983271eaecedd'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/4sYI62kA/versions/nGTSumry/oritech-neoforge-0.16.2.jar'
+
+[update.modrinth]
+mod-id = '4sYI62kA'
+version = 'nGTSumry'

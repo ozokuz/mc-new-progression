@@ -1,0 +1,16 @@
+filename = 'allthewizardgear-1.21.1-1.1.9.jar'
+name = 'All the Wizard Gear'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f6f25f3331b1560d42c4eb4dcec5d7b47bc2a328'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6411677
+project-id = 927064

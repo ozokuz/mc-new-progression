@@ -1,0 +1,16 @@
+filename = 'Kiwi-1.21.1-NeoForge-15.5.2.jar'
+name = 'Kiwi 🥝 (Neo/Forge)'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'cdf0f0294adb080b313febdbf958ad14a035c8ba'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6486639
+project-id = 303657

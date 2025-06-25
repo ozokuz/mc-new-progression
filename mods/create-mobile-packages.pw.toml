@@ -1,0 +1,16 @@
+filename = 'create_mobile_packages-1.21.1-0.5.2.jar'
+name = 'Create: Mobile Packages'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '5aa7fe190e97c8b7547a3c95d5bc6a6d2153e1886705d0ecc83091cad2b9480e553337c4be37348297c7a14d497bed9f5236941024841992a29fdacb833cbc82'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/1vXRfEHZ/versions/QgKuORKu/create_mobile_packages-1.21.1-0.5.2.jar'
+
+[update.modrinth]
+mod-id = '1vXRfEHZ'
+version = 'QgKuORKu'

@@ -1,0 +1,16 @@
+filename = 'silent-gear-1.21.1-neoforge-4.0.23.jar'
+name = 'Silent Gear'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'afa0cfd7d79a0935e337ecd007b04a74f054f431'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6631735
+project-id = 297039

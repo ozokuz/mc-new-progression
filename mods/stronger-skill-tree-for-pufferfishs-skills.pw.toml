@@ -1,0 +1,32 @@
+filename = 'Stronger Skill Tree.jar'
+name = "Stronger Skill Tree for pufferfish's skills"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.18.2',
+    '1.19',
+    '1.19.1',
+    '1.19.2',
+    '1.19.3',
+    '1.19.4',
+    '1.20',
+    '1.20.1',
+    '1.20.2',
+    '1.20.3',
+    '1.20.4',
+    '1.20.5',
+    '1.20.6',
+    '1.21',
+    '1.21.1'
+]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e1e36197b860285738aab86d2ba59827b6e9ade8bf4ddafef1f9e7d1d670b7edf4e41536d23e50b1e85ac26e4badd18fe09d250b063272bb47deb92d78c2baec'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/KsIs7qhw/versions/HCWuvWc9/Stronger Skill Tree.jar'
+
+[update.modrinth]
+mod-id = 'KsIs7qhw'
+version = 'HCWuvWc9'

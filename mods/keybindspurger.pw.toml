@@ -1,0 +1,16 @@
+filename = 'keybindspurger-1.21.x-neoforge-1.3.3.jar'
+name = 'KeybindsPurger'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1', '1.21.2', '1.21.3', '1.21.4', '1.21.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '45259c71ab8be75d43f8c410431618955ffa6b31e644a95d6845e3ebab5d77680322eae357fd14aecf607e4151b75f7d877f4507840f8df1c21f897ac1ef4e0e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/iaH7LvLy/versions/3OyO3mcb/keybindspurger-1.21.x-neoforge-1.3.3.jar'
+
+[update.modrinth]
+mod-id = 'iaH7LvLy'
+version = '3OyO3mcb'

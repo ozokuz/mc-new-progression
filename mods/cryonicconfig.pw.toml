@@ -1,0 +1,16 @@
+filename = 'cryonicconfig-neoforge-1.0.0+mc1.21.4.jar'
+name = 'Cryonic Config'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1', '1.21.2', '1.21.3', '1.21.4', '1.21.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c5eb3819044ccc6150f19b845bdbdc381113f867aea38975bf733dcdb96b8b9e2e529282b11256dfeef63efe987614dc51d925d1be0be41ffa8aa0311bcc23d7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/oEhQIkOs/versions/Ti9cpWRD/cryonicconfig-neoforge-1.0.0%2Bmc1.21.4.jar'
+
+[update.modrinth]
+mod-id = 'oEhQIkOs'
+version = 'Ti9cpWRD'

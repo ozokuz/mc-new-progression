@@ -1,0 +1,16 @@
+filename = 'ApothicEnchanting-1.21.1-1.4.3.jar'
+name = 'Apothic Enchanting'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '45c9d0120266952e52bcf25e692df7259d2486ac'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6631673
+project-id = 1063926

@@ -1,0 +1,16 @@
+filename = 'observable-5.4.3.jar'
+name = 'Observable'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'f42d190cfc589f251b5d8710e53a427cd78ef3b5ffee8def14f3c38252e4c0c76e62d4cbf2cfaddd2de933cc907aacb68312f000d4f98ad8a380daec44c2325b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/VYRu7qmG/versions/fPtQQQDl/observable-5.4.3.jar'
+
+[update.modrinth]
+mod-id = 'VYRu7qmG'
+version = 'fPtQQQDl'

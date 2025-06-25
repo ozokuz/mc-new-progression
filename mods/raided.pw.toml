@@ -1,0 +1,16 @@
+filename = 'Raided-1.21.1-0.1.4.2.jar'
+name = 'Raided'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '9a0fb7eaf76c530075d288f6967d5c4766fb122dba58220e7a2730f35460070c6dddf67c870f888feeca39a23dac2f8be4a35b00437fd92a7bcb2606d991b2fd'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/9vaHfaHw/versions/iEY0ijR8/Raided-1.21.1-0.1.4.2.jar'
+
+[update.modrinth]
+mod-id = '9vaHfaHw'
+version = 'iEY0ijR8'

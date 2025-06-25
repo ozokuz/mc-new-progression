@@ -1,0 +1,16 @@
+filename = 'utilitarian-1.21.1-0.13.15.jar'
+name = 'Utilitarian'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a2c61c33df15cd02fed5cce032f76c221e16e8252b078cb7afa83932a3b1ebf3395a921a3a102c161c553d84bc1e849615604355f53ee44b5667286066d2395c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/odpTfrvd/versions/Oj8BP9pe/utilitarian-1.21.1-0.13.15.jar'
+
+[update.modrinth]
+mod-id = 'odpTfrvd'
+version = 'Oj8BP9pe'

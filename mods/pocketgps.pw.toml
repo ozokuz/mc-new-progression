@@ -1,0 +1,16 @@
+filename = 'pocketgps-neoforge-1.21.1-1.0.6.jar'
+name = 'PocketGPS'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '4086da7bf2ee83f0f9b931113f8c28592e9006118e12b7c0f3eab2a3860b57f26c73b5309748ee2412ef9541849f762fa60a030b5b678fba5163f3256ce99161'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/4VaCQHUg/versions/WgTuHRXA/pocketgps-neoforge-1.21.1-1.0.6.jar'
+
+[update.modrinth]
+mod-id = '4VaCQHUg'
+version = 'WgTuHRXA'

@@ -1,0 +1,16 @@
+filename = 'enderscape-neoforge-1.0.6+mc1.21.1.jar'
+name = 'Enderscape'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '6f8695ffef9f1785928699c8d9a8fc40e43a155d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6671708
+project-id = 536638

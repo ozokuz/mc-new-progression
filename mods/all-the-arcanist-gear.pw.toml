@@ -1,0 +1,16 @@
+filename = 'allthearcanistgear-1.21.1-21.3.0.jar'
+name = 'All The Arcanist Gear'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9bef03da02dde0fb9aaa1766682fbe0abda6fa77'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6126914
+project-id = 1094032
