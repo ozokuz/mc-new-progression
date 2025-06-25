@@ -5,10 +5,6 @@ file = "config/SeasonHUD-client.toml"
 hash = "8e5617d82a0b12dd420c5969dcc36428470055e8a51fd5dbcb4c0aa252dbe4c3"
 
 [[files]]
-file = "config/almostunified/debug.json"
-hash = "def5b541fa88db047795d5c0647faed56329319298336e072e6b86d5500c4941"
-
-[[files]]
 file = "config/almostunified/duplicates.json"
 hash = "b70f57eadf6eec0ce43acd4c441f08feac1432826e04cb8e2736a73997c20c08"
 
