@@ -1,16 +1,13 @@
-filename = 'transfer_labels-0.1.3.jar'
-name = 'Transfer Labels'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'beta'
+name = "Transfer Labels"
+filename = "transfer_labels-0.1.4.jar"
+side = "both"
 
 [download]
-hash = 'f648b8bc0b93fa2329b79bd204bd6348b21f60f9'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "6e03443c391ac9dc5fac783a7cb08e880e15e5db"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
-file-id = 6552491
+file-id = 6690419
 project-id = 1184406

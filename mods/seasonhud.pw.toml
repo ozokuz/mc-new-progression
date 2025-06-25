@@ -1,16 +1,13 @@
-filename = 'seasonhud-neoforge-1.21.1-1.13.3.jar'
-name = 'SeasonHUD'
-side = 'client'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+name = "SeasonHUD"
+filename = "seasonhud-neoforge-1.21.1-1.13.5.jar"
+side = "client"
 
 [download]
-hash = '3995bbc05a62c762d7f7a8297d06d37ec2f13dbb598220ba769d50ed8bd30b5dfc5db5910c8770c09df7007b4ec31f1022100c02d5e1433a7447c0fdf628b929'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/VNjUn3NA/versions/SDmPmscE/seasonhud-neoforge-1.21.1-1.13.3.jar'
+url = "https://cdn.modrinth.com/data/VNjUn3NA/versions/iMTAX3Z4/seasonhud-neoforge-1.21.1-1.13.5.jar"
+hash-format = "sha512"
+hash = "5a7e92fd3446a84005d331d9e6f75dd65a62168e8e55fdd6aa6f4afb86403b9dad5cc459f8e872f79797f144135196674b117277b0e291a7e6017a48a3a61a26"
 
+[update]
 [update.modrinth]
-mod-id = 'VNjUn3NA'
-version = 'SDmPmscE'
+mod-id = "VNjUn3NA"
+version = "iMTAX3Z4"

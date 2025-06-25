@@ -1,16 +1,13 @@
-filename = 'map_atlases-1.21-6.3.3-neoforge.jar'
-name = 'Map Atlases [Forge]'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Map Atlases [Forge]"
+filename = "map_atlases-1.21-6.3.4-neoforge.jar"
+side = "both"
 
 [download]
-hash = '9e0aab70773884454bbee50f10713eec2618e707aab4c748d8ab35f7a9d4100b7d4ad262797c8a4627a612363651700148a83aa141db7a35dbe9eb2a25403d7a'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/4hwXMFif/versions/f2X4hHYf/map_atlases-1.21-6.3.3-neoforge.jar'
+url = "https://cdn.modrinth.com/data/4hwXMFif/versions/HvUyCUNy/map_atlases-1.21-6.3.4-neoforge.jar"
+hash-format = "sha512"
+hash = "cb7485fd63c16bc1e7a04b26b2a5731f73f8f1d2e37c1a2a06a52e8b3d79b20be5dedd67569cfa45976bb52d17250a35c16c70ad8c7428578cf108d00ecd5272"
 
+[update]
 [update.modrinth]
-mod-id = '4hwXMFif'
-version = 'f2X4hHYf'
+mod-id = "4hwXMFif"
+version = "HvUyCUNy"
