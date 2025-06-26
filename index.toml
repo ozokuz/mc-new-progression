@@ -113,6 +113,14 @@ file = "config/xaerominimap_entities.json"
 hash = "b8ddf54611a9ab8c53177fc0d062321e9e731192b65b9e50d0fcb38a86a91696"
 
 [[files]]
+file = "kubejs/server_scripts/ars_balance.js"
+hash = "8ea576c3f98497d7db8149a115e1bf6c5bdf0b9bd1510d0ada97fd1d21d044c7"
+
+[[files]]
+file = "kubejs/server_scripts/seasonfix.js"
+hash = "86593a97bde268af4ba44a15273b3da69e273be4a022118cb56e9c2aa6aba139"
+
+[[files]]
 file = "kubejs/server_scripts/spoiling.js"
 hash = "63c3ca64e969ad50a952aa750d8dee87c0cafc173c4e6b6f441b9123ad703d00"
 
