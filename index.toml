@@ -82,7 +82,7 @@ hash = "ef08f7c19dbfcd5c8bb71c5271f040e22fb4ba48852c91906e64603aa96c82d7"
 
 [[files]]
 file = "config/sophisticatedbackpacks-server.toml"
-hash = "0d8364b2b1483292f151f95919b0b4aeb16dddeb12c31711d5a26b7873d8b284"
+hash = "40aaa1b64c05e8dbf7f1793f261e103ae79d86077286383f7fdde082d8c7faf1"
 
 [[files]]
 file = "config/spoiled-client.toml"
