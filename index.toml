@@ -176,8 +176,18 @@ hash = "8b4907ce59dceb452999a8e77b5cf384ddca028fb31608b3a4e264fb5676f532"
 metafile = true
 
 [[files]]
+file = "mods/alshanexs-familiars.pw.toml"
+hash = "00a3342b96bb07e397be8af83e0cec43d6f930cb70f5efcd5809faac468570f8"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "19c2a08a5a583c20b7c7f534817fcd53257a958767ed701da5003f38ffcdfe31"
+metafile = true
+
+[[files]]
+file = "mods/apotheosis-x-irons-spellbooks-compat.pw.toml"
+hash = "58584c026676a8e9b831492435a620f381538f939173eb575b034bd0d673e68d"
 metafile = true
 
 [[files]]
@@ -286,6 +296,11 @@ hash = "dd22daec26db7e10cb416d14044137fd3caf9fbd4fb24881e2eeb3813736acb3"
 metafile = true
 
 [[files]]
+file = "mods/azurelib.pw.toml"
+hash = "0cab7c0afde1e630cf4af34d166e3bffd217209a7d3dc7d85721f49073330091"
+metafile = true
+
+[[files]]
 file = "mods/bad-wither-no-cookie.pw.toml"
 hash = "c25fdbb97801bf44112f932c8efa6f0627db1fbee3edc97667eca27e59bed4f9"
 metafile = true
@@ -333,6 +348,11 @@ metafile = true
 [[files]]
 file = "mods/carry-on.pw.toml"
 hash = "cd62112cb64a3fdfb930f960d5d64bab07ea76b08bfefcfc621d0a656c3cec46"
+metafile = true
+
+[[files]]
+file = "mods/cataclysm-spellbooks.pw.toml"
+hash = "7434623b3939dace6c3d390d002d8ce34648b619a1559a611f0dd994cb173b9b"
 metafile = true
 
 [[files]]
@@ -598,6 +618,11 @@ metafile = true
 [[files]]
 file = "mods/extended-industrialization.pw.toml"
 hash = "41940415c4151f2a8e1c866f4de0b58a22a763f7b016467e99f202d892a78b37"
+metafile = true
+
+[[files]]
+file = "mods/extra-apoth-compat.pw.toml"
+hash = "b4b3524587c3116d0a1ec0200c476831b41b8096d20d68a3d95455bb6b194e03"
 metafile = true
 
 [[files]]
