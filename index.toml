@@ -29,6 +29,18 @@ file = "config/ars_nouveau-client.toml"
 hash = "732c5e0cd7905f2fe4df6daa49a3a32091c79952997f437851295049ac69233b"
 
 [[files]]
+file = "config/ars_nouveau/glyph_ender_inventory.toml"
+hash = "80862ee858e2aef8960295815db2330757c4c0aa41f4ee3b4494211c3a9fe30d"
+
+[[files]]
+file = "config/ars_nouveau/glyph_leap.toml"
+hash = "1f28447319c310394375ac43481831e460ee49a2a32dc2b7eee4bcc761c58334"
+
+[[files]]
+file = "config/ars_nouveau/glyph_slowfall.toml"
+hash = "d84ff0930e649a28257913f2f20f62bb9f0030bf160361cee9a430525a8e24a0"
+
+[[files]]
 file = "config/bcc-common.toml"
 hash = "e188201aa1bb528f4c73fe2e6c0b461f7667baec5815fc5dc6fc3d2a3a2df18b"
 
