@@ -90,7 +90,7 @@ hash = "9f51e8e3fa8d410ef2fe563ef275b98adf2c7992498ea03440f864374b3f340a"
 
 [[files]]
 file = "config/spoiled-common.toml"
-hash = "006797c9d5b9363f79ff376b534c001c2ab45c184461ed28505d7f2763644fde"
+hash = "900df828cd79192a5108572a5d1091b2f62ba79f95c9fad9977ece2d74125c09"
 
 [[files]]
 file = "config/waystones-common.toml"
