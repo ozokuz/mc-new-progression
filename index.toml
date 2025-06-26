@@ -57,6 +57,10 @@ file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "15cef618fac7cb276bb4ba5dbdbd88a7a72a331962bcfdbba16a03789f06de62"
 
 [[files]]
+file = "config/localizedchat-common.toml"
+hash = "9dbbc0d85fda71f679c6218feaf71a5294c7e3d77da25235df9ecd08824fcb1b"
+
+[[files]]
 file = "config/map_atlases-client.toml"
 hash = "a55ed3ba108c25809780b445bde0207a299a07e39507c3445e94b6ec7d7f2f7f"
 
