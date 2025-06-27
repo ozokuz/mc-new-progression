@@ -1,6 +1,7 @@
 ServerEvents.recipes((event) => {
   // Spell Books
   event.remove({ id: "ars_nouveau:novice_spell_book" });
+  event.remove({ id: "ars_nouveau:novice_spellbook_alt" });
   event.remove({ id: "ars_nouveau:apprentice_book_upgrade" });
   event.remove({ id: "ars_nouveau:archmage_book_upgrade" });
 

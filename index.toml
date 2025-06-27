@@ -118,7 +118,7 @@ hash = "b8ddf54611a9ab8c53177fc0d062321e9e731192b65b9e50d0fcb38a86a91696"
 
 [[files]]
 file = "kubejs/server_scripts/ars_balance.js"
-hash = "8ea576c3f98497d7db8149a115e1bf6c5bdf0b9bd1510d0ada97fd1d21d044c7"
+hash = "f4606279a83686d0db69aa259584285e2634e11329b626c3c3fea130d358850c"
 
 [[files]]
 file = "kubejs/server_scripts/fix_nether_loot_chests.js"
