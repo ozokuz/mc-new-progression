@@ -97,6 +97,10 @@ file = "config/spoiled-common.toml"
 hash = "900df828cd79192a5108572a5d1091b2f62ba79f95c9fad9977ece2d74125c09"
 
 [[files]]
+file = "config/unbreakables-common.toml"
+hash = "09b3348267a1631976f06a7b806dbf0f6645962b78ad29137d3043dc53922c36"
+
+[[files]]
 file = "config/waystones-common.toml"
 hash = "f47807c5c54edba6be8bd841974699e1b63c06f8befe3bcab16adc804f37b8ab"
 
@@ -123,6 +127,10 @@ hash = "86593a97bde268af4ba44a15273b3da69e273be4a022118cb56e9c2aa6aba139"
 [[files]]
 file = "kubejs/server_scripts/spoiling.js"
 hash = "63c3ca64e969ad50a952aa750d8dee87c0cafc173c4e6b6f441b9123ad703d00"
+
+[[files]]
+file = "kubejs/server_scripts/waystones_balance.js"
+hash = "cbb3fad057b70554befc1aa43d0671e9c0d10cf5e88c056a6e792b9d750c230d"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -1447,6 +1455,11 @@ metafile = true
 [[files]]
 file = "mods/trimmed.pw.toml"
 hash = "ae8e462dfef7154851bad71d448e3a541472b0711a4212ae9b509d0ed2122f09"
+metafile = true
+
+[[files]]
+file = "mods/unbreakables.pw.toml"
+hash = "ab69b88cfd320ce4e15ad35135a47e65b146424fbfadc0d7ff9867e46390aa80"
 metafile = true
 
 [[files]]

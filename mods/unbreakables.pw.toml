@@ -1,0 +1,13 @@
+name = "Unbreakables"
+filename = "unbreakables-neoforge-1.21.1-21.1.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XjDZ0DwA/versions/LhT3FBxk/unbreakables-neoforge-1.21.1-21.1.7.jar"
+hash-format = "sha512"
+hash = "b83b8f21efa69a0b8c32d381ac9e010e6cff499971075753cdd5d233b4b19dbfc58aed5e0a8175cd63f651727892c40b242aae7fb5a5b3130197a307dab99aa8"
+
+[update]
+[update.modrinth]
+mod-id = "XjDZ0DwA"
+version = "LhT3FBxk"
