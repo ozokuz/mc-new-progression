@@ -121,6 +121,10 @@ file = "kubejs/server_scripts/ars_balance.js"
 hash = "8ea576c3f98497d7db8149a115e1bf6c5bdf0b9bd1510d0ada97fd1d21d044c7"
 
 [[files]]
+file = "kubejs/server_scripts/fix_nether_loot_chests.js"
+hash = "78e220c9f77b37507d1c1cd8292a3ee9f6b9ed94545e056fefd0c39bc5d715e5"
+
+[[files]]
 file = "kubejs/server_scripts/seasonfix.js"
 hash = "86593a97bde268af4ba44a15273b3da69e273be4a022118cb56e9c2aa6aba139"
 
@@ -925,6 +929,11 @@ metafile = true
 [[files]]
 file = "mods/localized-chat.pw.toml"
 hash = "f6936e20621855e5f59f54021fe5c626f6575a5b50a72042442e5bf7e92d0932"
+metafile = true
+
+[[files]]
+file = "mods/lootjs.pw.toml"
+hash = "771a5c436b7268c0c3f1a2dfcb804f317ca70577202973ddc4bce2b4704845b6"
 metafile = true
 
 [[files]]
