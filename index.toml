@@ -42,7 +42,7 @@ hash = "d84ff0930e649a28257913f2f20f62bb9f0030bf160361cee9a430525a8e24a0"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "e188201aa1bb528f4c73fe2e6c0b461f7667baec5815fc5dc6fc3d2a3a2df18b"
+hash = "d6841f9a02b8616f5abfafe13036d4fc24607743b3de9e6086ad926f33709d80"
 
 [[files]]
 file = "config/emi.css"

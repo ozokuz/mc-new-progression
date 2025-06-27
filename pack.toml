@@ -1,12 +1,12 @@
 name = "New Progression"
 author = "Ozoku"
-version = "0.1.2"
+version = "0.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "200972eb37507870258fc37e70af97eaa354e3fb0b11e42261e09653fad72e0e"
+hash = "5d8859ced14f17aa3389b86fc7cb20ca7c048f9cb97d4cf4d01505e73903c5f5"
 
 [versions]
 minecraft = "1.21.1"
