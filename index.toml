@@ -126,7 +126,7 @@ hash = "f4606279a83686d0db69aa259584285e2634e11329b626c3c3fea130d358850c"
 
 [[files]]
 file = "kubejs/server_scripts/balancing/chunk_loaders.js"
-hash = "d19c1ef3c316ed43c787cce593df44e98805792911712b8d4f8b4fbcbaacf187"
+hash = "535cfdb32b68b8f0de3eb304677bd6811e4563a31264b7d56ef9e50617e014c6"
 
 [[files]]
 file = "kubejs/server_scripts/balancing/spoiled.js"

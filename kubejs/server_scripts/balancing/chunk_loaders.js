@@ -4,7 +4,7 @@ ServerEvents.recipes(event => {
   event.remove({ id: 'chunkloaders:ultimate_chunk_loader' });
 
   event.shaped('chunkloaders:basic_chunk_loader', ['CUC', 'SMS', 'CLC'], {
-    C: '#c:ingots/brass',
+    C: '#c:ingots/steel',
     U: 'create:electron_tube',
     S: 'ars_nouveau:manipulation_essence',
     M: 'minecraft:ender_pearl',
