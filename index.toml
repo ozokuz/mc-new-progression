@@ -97,6 +97,10 @@ file = "config/spoiled-common.toml"
 hash = "900df828cd79192a5108572a5d1091b2f62ba79f95c9fad9977ece2d74125c09"
 
 [[files]]
+file = "config/twilightforest-common.toml"
+hash = "79df1e9730257c4e805c23ede280510a939ffd8ac2a9802617b41866caa227ef"
+
+[[files]]
 file = "config/unbreakables-common.toml"
 hash = "09b3348267a1631976f06a7b806dbf0f6645962b78ad29137d3043dc53922c36"
 
