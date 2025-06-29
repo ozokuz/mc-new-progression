@@ -4,7 +4,6 @@
 
 create
 
-just dire things
 laserio
 
 mekanism
