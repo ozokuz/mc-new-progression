@@ -121,24 +121,24 @@ file = "config/xaerominimap_entities.json"
 hash = "b8ddf54611a9ab8c53177fc0d062321e9e731192b65b9e50d0fcb38a86a91696"
 
 [[files]]
-file = "kubejs/server_scripts/ars_balance.js"
+file = "kubejs/server_scripts/balancing/ars_nouveau.js"
 hash = "f4606279a83686d0db69aa259584285e2634e11329b626c3c3fea130d358850c"
 
 [[files]]
-file = "kubejs/server_scripts/fix_nether_loot_chests.js"
-hash = "78e220c9f77b37507d1c1cd8292a3ee9f6b9ed94545e056fefd0c39bc5d715e5"
-
-[[files]]
-file = "kubejs/server_scripts/seasonfix.js"
-hash = "86593a97bde268af4ba44a15273b3da69e273be4a022118cb56e9c2aa6aba139"
-
-[[files]]
-file = "kubejs/server_scripts/spoiling.js"
+file = "kubejs/server_scripts/balancing/spoiled.js"
 hash = "63c3ca64e969ad50a952aa750d8dee87c0cafc173c4e6b6f441b9123ad703d00"
 
 [[files]]
-file = "kubejs/server_scripts/waystones_balance.js"
+file = "kubejs/server_scripts/balancing/waystones.js"
 hash = "cbb3fad057b70554befc1aa43d0671e9c0d10cf5e88c056a6e792b9d750c230d"
+
+[[files]]
+file = "kubejs/server_scripts/fixes/nether_loot_chests.js"
+hash = "78e220c9f77b37507d1c1cd8292a3ee9f6b9ed94545e056fefd0c39bc5d715e5"
+
+[[files]]
+file = "kubejs/server_scripts/fixes/serene_seasons.js"
+hash = "86593a97bde268af4ba44a15273b3da69e273be4a022118cb56e9c2aa6aba139"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
