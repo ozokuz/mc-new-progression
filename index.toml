@@ -141,6 +141,10 @@ file = "kubejs/server_scripts/balancing/just_dire_things.js"
 hash = "2dc87eeb4a9e7b4b6bebbc743f839b976901d1fe42e751cf07ba285b63b14bd8"
 
 [[files]]
+file = "kubejs/server_scripts/balancing/laserio.js"
+hash = "f2826e0cb8b660ebf193049ef84c5cc44ed71bb7dcafc40c389858afccc2f379"
+
+[[files]]
 file = "kubejs/server_scripts/balancing/lava_nerf.js"
 hash = "8c73283f2c74b74dede00e3cdf68a60eccb27e2507cc98970b3536725d982a36"
 

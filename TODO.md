@@ -4,8 +4,6 @@
 
 create
 
-laserio
-
 mekanism
 applied energistics 2
 
