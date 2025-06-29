@@ -2,9 +2,7 @@
 
 ## Mods to balance
 
-1. chunk loaders
-2. functional storage - fluid drawers
-3. tom's storage
+tom's storage
 
 powah
 hostile neural networks
