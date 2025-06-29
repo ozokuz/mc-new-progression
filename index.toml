@@ -137,6 +137,10 @@ file = "kubejs/server_scripts/balancing/lava_nerf.js"
 hash = "8c73283f2c74b74dede00e3cdf68a60eccb27e2507cc98970b3536725d982a36"
 
 [[files]]
+file = "kubejs/server_scripts/balancing/mining_gadgets.js"
+hash = "f1890d609d5f4cd8d7acf0648e21bd44b6621aa626f11f267101eb2c2b0459d3"
+
+[[files]]
 file = "kubejs/server_scripts/balancing/powah.js"
 hash = "8f70b4fc4a96462f371d4b47ffbfdd8848176bdbcdbbbbdc99ea3b60521fd13d"
 

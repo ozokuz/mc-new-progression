@@ -4,7 +4,6 @@
 
 create
 
-mining gadgets
 building gadgets
 just dire things
 laserio
