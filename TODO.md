@@ -2,7 +2,6 @@
 
 ## Mods to balance
 
-hostile neural networks
 create
 
 mining gadgets
