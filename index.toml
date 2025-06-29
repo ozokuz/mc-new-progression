@@ -125,6 +125,10 @@ file = "kubejs/server_scripts/balancing/ars_nouveau.js"
 hash = "f4606279a83686d0db69aa259584285e2634e11329b626c3c3fea130d358850c"
 
 [[files]]
+file = "kubejs/server_scripts/balancing/building_gadgets.js"
+hash = "f5f846a8add0581d0de58c0a465186e3c5f57abe748ebcbf9eec48f414970353"
+
+[[files]]
 file = "kubejs/server_scripts/balancing/chunk_loaders.js"
 hash = "535cfdb32b68b8f0de3eb304677bd6811e4563a31264b7d56ef9e50617e014c6"
 
