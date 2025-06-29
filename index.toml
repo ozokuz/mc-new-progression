@@ -129,6 +129,10 @@ file = "kubejs/server_scripts/balancing/chunk_loaders.js"
 hash = "535cfdb32b68b8f0de3eb304677bd6811e4563a31264b7d56ef9e50617e014c6"
 
 [[files]]
+file = "kubejs/server_scripts/balancing/lava_nerf.js"
+hash = "8c73283f2c74b74dede00e3cdf68a60eccb27e2507cc98970b3536725d982a36"
+
+[[files]]
 file = "kubejs/server_scripts/balancing/spoiled.js"
 hash = "63c3ca64e969ad50a952aa750d8dee87c0cafc173c4e6b6f441b9123ad703d00"
 
