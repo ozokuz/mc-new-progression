@@ -389,6 +389,11 @@ hash = "cd1719d8b2333d24bdce018b05b082bde6ce344a8c45db1bcb5ccd4ececa948b"
 metafile = true
 
 [[files]]
+file = "mods/bridging-mod.pw.toml"
+hash = "9eab2a8483c0532868037db4808b08109da86e397951d7517b39f4817c515d29"
+metafile = true
+
+[[files]]
 file = "mods/building-gadgets.pw.toml"
 hash = "021be46fa369cf260efc0d114d56d8260b3bd682e7675e837016c727368efc1e"
 metafile = true
@@ -476,6 +481,11 @@ metafile = true
 [[files]]
 file = "mods/cooking-for-blockheads.pw.toml"
 hash = "641453df5f29189a821567dc09f50a13d31b608867c408a54cb00a346fa27a76"
+metafile = true
+
+[[files]]
+file = "mods/copycats.pw.toml"
+hash = "bf463928645c586cb57a4e02533ee300af3931cf9db9233dae7efc1826643d41"
 metafile = true
 
 [[files]]
@@ -591,6 +601,11 @@ metafile = true
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
 hash = "b853a2f80396949c3988c5846d5bb362f66e78b71064de68e969ad941da6d5cc"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "92d8711662b4e3fd42a57254571aca9f0b33a10bb7492a8fba59b22e78f688e6"
 metafile = true
 
 [[files]]
@@ -1099,8 +1114,18 @@ hash = "da09dab032db622c70c445db6acabdc98aa51c3c1330fea4300ff321fb0eb023"
 metafile = true
 
 [[files]]
+file = "mods/oracle-index.pw.toml"
+hash = "c95bc7f777a7a00bef2ff263b3aba44cbe6205c0bbdcd8f7a094eb8d54d3435a"
+metafile = true
+
+[[files]]
 file = "mods/oritech.pw.toml"
 hash = "c9c546d5b8e78d50f4725ce9a5b3408371f5c7bac9378f76c28a5bd8ad43877a"
+metafile = true
+
+[[files]]
+file = "mods/overflowing-bars.pw.toml"
+hash = "80ae7efa4eabb2f9df835f1d2f64dbd7cffc57df0878fc160a6620572de20e8d"
 metafile = true
 
 [[files]]
@@ -1246,6 +1271,11 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "968e86c1be12e7e68e4925ac05b77f753394fc037a5871f3d20f6569a916f411"
+metafile = true
+
+[[files]]
+file = "mods/savage-ender-dragon.pw.toml"
+hash = "d5da3a6295e93316ffbc212e82a6223bc72af894d17c677f368d54c8f7f8ec8d"
 metafile = true
 
 [[files]]
@@ -1526,6 +1556,11 @@ metafile = true
 [[files]]
 file = "mods/xtra-arrows.pw.toml"
 hash = "a09b1ad6fda099faad81959d39c7d7acc9b7510ce230ae5c2fc7006a895a46b7"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "aa9070a0e763f00f0d0b325e9bb980e53faabe9854bae25f2e542a7b81b7492e"
 metafile = true
 
 [[files]]

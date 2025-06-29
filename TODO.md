@@ -19,11 +19,8 @@ applied energistics 2
 ## Other plans
 
 - Ore processing rework
-- Add mods
-  - Overflowing Bars
-  - Create Copycats+
-  - Bridging Mod
-  - Oracle Index
+- Remove mods
+  - Tom's Simple Storage
 
 ## Future iteration plans
 
