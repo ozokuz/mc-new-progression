@@ -133,6 +133,10 @@ file = "kubejs/server_scripts/balancing/lava_nerf.js"
 hash = "8c73283f2c74b74dede00e3cdf68a60eccb27e2507cc98970b3536725d982a36"
 
 [[files]]
+file = "kubejs/server_scripts/balancing/powah.js"
+hash = "8f70b4fc4a96462f371d4b47ffbfdd8848176bdbcdbbbbdc99ea3b60521fd13d"
+
+[[files]]
 file = "kubejs/server_scripts/balancing/spoiled.js"
 hash = "63c3ca64e969ad50a952aa750d8dee87c0cafc173c4e6b6f441b9123ad703d00"
 

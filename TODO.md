@@ -2,7 +2,6 @@
 
 ## Mods to balance
 
-powah
 hostile neural networks
 create
 
