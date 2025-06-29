@@ -2,8 +2,6 @@
 
 ## Mods to balance
 
-tom's storage
-
 powah
 hostile neural networks
 create

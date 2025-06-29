@@ -149,6 +149,10 @@ file = "kubejs/server_scripts/fixes/serene_seasons.js"
 hash = "86593a97bde268af4ba44a15273b3da69e273be4a022118cb56e9c2aa6aba139"
 
 [[files]]
+file = "kubejs/server_scripts/remove.js"
+hash = "b31fb7d7d9ac38fe1bcb15743c5e5cd0497f9ea6d83f31e1ee91421a78727b48"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "6a18661c6086c2acc1fb76869e1bba5935ff3f63ba0d1a65869aba6a49e24dd3"
 metafile = true
