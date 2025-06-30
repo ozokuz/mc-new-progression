@@ -1,15 +1,17 @@
 # New Progression TODO
 
-## Mods to balance
+## Mods to balance (including their addons)
 
-create
-
-mekanism
-applied energistics 2
+- Create
+- Mekanism
+- Applied Energistics 2
 
 ## Other plans
 
 - Ore processing rework
+- Add mods
+  - Ender Chests
+  - Ender Tanks
 - Remove mods
   - Tom's Simple Storage
 
@@ -18,3 +20,4 @@ applied energistics 2
 - Iron's spells & spellbooks
   - Make armor harder to craft
   - Less loot?
+- Put some ores behind Twilight Forest
